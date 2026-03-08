@@ -1,0 +1,2 @@
+# trademarkia-assignment
+AI Project
