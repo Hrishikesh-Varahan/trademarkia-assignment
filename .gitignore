@@ -1,0 +1,5 @@
+search_index.pkl
+venv/
+__pycache__/
+*.pyc
+.env
